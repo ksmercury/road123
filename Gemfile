@@ -8,7 +8,7 @@ gem 'rails', '3.0.5'
 gem 'mysql2'
 gem 'spree'
 gem 'taps'
-gem 'aws-s3'
+gem 'aws-s3', :require => 'aws/s3'
 
 # Use unicorn as the web server
 # gem 'unicorn'
