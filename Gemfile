@@ -7,6 +7,7 @@ gem 'rails', '3.0.5'
 
 gem 'mysql2'
 gem 'spree'
+gem 'aws-s3', :require => 'aws/s3'
 gem 'taps'
 
 
