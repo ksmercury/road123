@@ -164,4 +164,10 @@ DEPENDENCIES
   mysql2
   rails (= 3.0.5)
   spree
+  spree_api
+  spree_auth
+  spree_core
+  spree_dash
+  spree_promo
+  spree_sample
   taps

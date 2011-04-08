@@ -6,9 +6,15 @@ gem 'rails', '3.0.5'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 gem 'mysql2'
-gem 'spree'
 gem 'aws-s3', :require => 'aws/s3'
 gem 'taps'
+gem 'spree'
+gem 'spree_api'
+gem 'spree_auth'
+gem 'spree_core'
+ gem 'spree_dash'
+gem 'spree_promo'
+gem 'spree_sample'
 
 
 # Use unicorn as the web server
