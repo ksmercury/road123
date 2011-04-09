@@ -1,0 +1,9 @@
+#config/s3.yml
+development:
+  access_key_id: AKIAIVYHAEHKF5LHVGVQ
+  secret_access_key: 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
+  bucket: edw
+production:
+  access_key_id: AKIAIVYHAEHKF5LHVGVQ
+  secret_access_key: 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
+  bucket: edw
